@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bypass-defender", "Bypass-defender\Bypass-defender.csproj", "{296A1315-1F2A-4CDA-8BF9-9B49EE58CCCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{296A1315-1F2A-4CDA-8BF9-9B49EE58CCCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{296A1315-1F2A-4CDA-8BF9-9B49EE58CCCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{296A1315-1F2A-4CDA-8BF9-9B49EE58CCCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{296A1315-1F2A-4CDA-8BF9-9B49EE58CCCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42E110EB-D6E7-4A63-912F-8DE9316C88F8}
+	EndGlobalSection
+EndGlobal

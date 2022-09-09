@@ -1,0 +1,14 @@
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\bin\Release\net4.6-windows\Bypass-defender.exe.config
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\bin\Release\net4.6-windows\Bypass-defender.exe
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\bin\Release\net4.6-windows\Bypass-defender.pdb
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass-defender.csproj.AssemblyReference.cache
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass-defender.csproj.SuggestedBindingRedirects.cache
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass_defender.Form1.resources
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass-defender.csproj.GenerateResource.cache
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass-defender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass-defender.AssemblyInfoInputs.cache
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass-defender.AssemblyInfo.cs
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass-defender.csproj.CoreCompileInputs.cache
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass-defender.exe
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass-defender.pdb
+C:\Users\attationin\source\repos\Bypass-defender\Bypass-defender\obj\Release\net4.6-windows\Bypass_defender.Resources.resources
